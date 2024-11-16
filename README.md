@@ -62,6 +62,3 @@ The chatbot is designed to interact with users, detect city names from their que
 - After starting the application, navigate to `http://localhost:8501` in your web browser to access the chatbot interface.
 - Interact with the chatbot by asking about the weather for different cities.
 
-## Important note
-This repository includes a `.env` file with environment variables and API keys to ensure the application runs smoothly without additional setup. 
-Please handle these credentials with care and do not share them publicly. The keys will be deactivated after the grading.
